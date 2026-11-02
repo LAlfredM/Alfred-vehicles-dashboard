@@ -20,4 +20,4 @@ if scatter_button:
     st.write('Relación entre el odómetro y el precio')
     fig = go.Figure(data=[go.Scatter(x=car_data['odometer'], y=car_data['price'], mode='markers')])
     fig.update_layout(title_text='Relación entre Odómetro y Precio')
-    st.plotly_chart(fig, use_container_width='stretch')
+    st.plotly_chart(fig, width='stretch')
