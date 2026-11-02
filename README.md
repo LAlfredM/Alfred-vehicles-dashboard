@@ -24,4 +24,4 @@ streamlit run app.py
 
 ## App desplegada
 
-🔗 Link a la app en Render: (pendiente, se agrega al desplegar)
+🔗 Link a la app en Render: https://alfred-vehicles-dashboard.onrender.com
