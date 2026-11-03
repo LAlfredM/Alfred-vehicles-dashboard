@@ -4,10 +4,11 @@ Dashboard web interactivo para explorar un conjunto de datos de anuncios de vent
 
 ## ¿Qué hace la app?
 
-- Muestra un histograma de la distribución del odómetro de los coches.
-- Muestra un gráfico de dispersión de la relación entre odómetro y precio.
-- Cada gráfica se construye al hacer clic en su botón y permanece visible; al volver a hacer clic, se oculta.
-- Las dos gráficas pueden verse al mismo tiempo para compararlas.
+- Muestra métricas generales del conjunto de datos: número de anuncios, precio mediano y odómetro mediano.
+- Permite ver una muestra de los datos en un desplegable.
+- Construye un histograma de la distribución del odómetro de los coches.
+- Construye un gráfico de dispersión de la relación entre odómetro y precio.
+- Cada gráfica se construye al hacer clic en su botón y permanece visible hasta que se oculta con otro clic, así que ambas pueden compararse al mismo tiempo.
 
 ## Archivos del proyecto
 
