@@ -6,7 +6,8 @@ Dashboard web interactivo para explorar un conjunto de datos de anuncios de vent
 
 - Muestra un histograma de la distribución del odómetro de los coches.
 - Muestra un gráfico de dispersión de la relación entre odómetro y precio.
-- Cada gráfica se genera al hacer clic en su botón.
+- Cada gráfica se construye al hacer clic en su botón y permanece visible; al volver a hacer clic, se oculta.
+- Las dos gráficas pueden verse al mismo tiempo para compararlas.
 
 ## Archivos del proyecto
 
