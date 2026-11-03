@@ -25,3 +25,4 @@ streamlit run app.py
 ## App desplegada
 
 🔗 Link a la app en Render: https://alfred-vehicles-dashboard.onrender.com
+> Nota: la app está en el plan gratuito de Render y se "duerme" tras un rato sin uso; la primera carga puede tardar hasta un minuto.
